@@ -4,7 +4,7 @@ Instituto Superior Técnico, Universidade de Lisboa
 
 # Guia de Laboratório - *Nmap*
 
-## Objetivo
+## Objetivo 
 
 O objetivo deste laboratório é aprender as potencialidades do *Nmap* ("Network Mapper"). O *Nmap* é uma ferramenta de código aberto amplamente utilizada para descoberta de máquinas e serviços numa rede. Permite identificar máquinas ativas, portas abertas, serviços em execução e, em muitos casos, obter informação útil sobre versões e sistemas operativos, sendo por isso muito usado em tarefas de administração, diagnóstico e auditoria de segurança.
 
