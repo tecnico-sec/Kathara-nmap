@@ -12,3 +12,4 @@ iptables -A FORWARD -p tcp -d 5.5.5.0/24 -j ACCEPT
 # Permitir tráfego de resposta (Estabelecido)
 iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
 
+
