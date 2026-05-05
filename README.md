@@ -112,6 +112,8 @@ O Nmap pode inferir o sistema operativo através da análise da pilha TCP/IP.
 nmap -O <ip_webserver>
 ```
 
+Note que para que o Namp reconheça o sistema operativo, a versão do Namp usada deve ser posterior ao sistema operativo usado.
+
 - O sistema operativo identificado corresponde ao real?
 - Que impacto pode ter uma firewall que bloqueie certos tipos de pacotes nesta deteção?
 
